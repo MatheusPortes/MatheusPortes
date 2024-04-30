@@ -17,12 +17,7 @@
 ## Back-End
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" margin="10px"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" margin="10px" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" margin="10px" />
 
-
-<div>
-<a href="https://github.com/MatheusPortes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MatheusPortes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?MatheusPortes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/MatheusPortes/github-readme-stats)
 
 <!---
 MatheusPortes/MatheusPortes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
