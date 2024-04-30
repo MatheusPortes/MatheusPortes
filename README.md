@@ -1,14 +1,18 @@
+# 👋 Hello! Welcome to my Github profile.
+## My name is SeuNomeAqui and my nickname is Matheus Portes L.
+
 - 👋 Hi, I'm @MatheusPortes
-- I'm interested in working in web development or even in the gaming area.
-- 🌱 I'm currently learning JS - Node and React.
-- 💞️ I'm looking to collaborate on...
+- 🔭 I’m currently working in web projects with frameworks like react and nestJS
+- 🌱 I'm currently learning JS - Vue 3 applying S.O.L.I.D.
 - 📫 How to reach me: portes.matheus@outlook.com
 
-- 👋 Olá, sou @MatheusPortes
-- 👀 Estou interessado em trabalhar no desenvolvimrnto Web ou até mesmo em aréa do jogos.
-- 🌱 Atualmente estou aprendendo JS - Node e React.
-- 💞️ Estou procurando colaborar em ...
-- 📫 Como me alcançar: portes.matheus@outlook.com
+## Tools and Technologies
+# Frond-End
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
 
 <!---
 MatheusPortes/MatheusPortes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
