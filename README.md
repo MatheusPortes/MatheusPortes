@@ -18,6 +18,9 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" margin="10px"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" margin="10px" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" margin="10px" />
 
 
+![Snake animation](https://github.com/MatheusPortes/MatheusPortes/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!---
 MatheusPortes/MatheusPortes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
